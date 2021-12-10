@@ -1,21 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test for POC</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://kit.fontawesome.com/a71707a89a.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="style.css"/>
+<title>Popup Box</title>
 </head>
 <body>
-    <a class="btn">Netherlands</a>
-    <div id="popup">
-        <div class="content">
-            <img src="image/minigrim.png" alt="grim">
-            <h2>TOTAL homicides: 63658824</h2>
-            <p>The best known murderer is samantha! :O</p>
-            <h3>Small story:</h1>
-            <p>David Severance drowned in the Spokane River, a probable suicide. His estranged wife doesn’t think he was suicidal. She went to his apartment, a hopeless place, to arrange his things. She found a picture of David with people she’d never seen before. They look like a family.</p>
-            <a class="close"><img src="image/cancel.png"></a>
-        </div>
-    </div>
+<div id="popUpOverlay"></div>
+<div id="popUpBox">
+<div id="box">
+<i class=""></i>
+<h1>Total Homicides: 30847932469</h1>
+<div id="closeModal"></div>
+</div>
+</div>
+<button onclick="Alert.render('You look very pretty today.')" class="btn">Netherlands</button>
+<script src="app.js"></script>
 </body>
 </html>
