@@ -50,3 +50,6 @@ body {
 #popup .content img {
 max-width: 80px;
 }
+#popup .content p {
+    text-align: center;
+}
