@@ -25,5 +25,5 @@ body {
     transition: 0.5s;
 }
 .btn:hover {
-    letter-spacing: 100px;
+    letter-spacing: 2px;
 }
