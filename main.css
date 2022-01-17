@@ -1,3 +1,10 @@
 body{
     background-color: black;
 }
+body img{
+    margin-left: 115px;
+}
+body h1{
+    text-align: center;
+    color: white;
+}
