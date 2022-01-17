@@ -18,3 +18,33 @@ body a{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.australia{
+    position: absolute;
+    top: 73%;
+    left: 78%;
+    transform: translate(-50%, -50%);
+}
+.asia{
+    position: absolute;
+    top: 28%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+}
+.europe{
+    position: absolute;
+    top: 27%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+}
+.n-america{
+    position: absolute;
+    top: 27%;
+    left: 21.5%;
+    transform: translate(-50%, -50%);
+}
+.s-america{
+    position: absolute;
+    top: 70%;
+    left: 29%;
+    transform: translate(-50%, -50%);
+}
