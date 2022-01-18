@@ -18,6 +18,12 @@ body a{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.africa h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 .australia{
     position: absolute;
     top: 73%;
