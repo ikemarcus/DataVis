@@ -1,6 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
 body{
     background-color: black;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 body img{
     margin-left: 115px;
