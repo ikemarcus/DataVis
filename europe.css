@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+body{
+    background-color: black;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+.error{
+    position: relative;
+}
+.map-europe{
+    display: inline-flex;
+    margin-left: 115px;
+    width: 1350px;
+    position: absolute;
+    z-index: -5;
+}
+body h1{
+    color: maroon;
+    text-align: center;
+}
+body a{
+    color: white;
+}
+.europe{
+    position: absolute;
+    top: 24%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+}
