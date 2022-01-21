@@ -2,14 +2,16 @@
 body{
     background-color: black;
     font-family: 'Sawarabi Gothic', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 .error{
     position: relative;
 }
 .map-asia{
     display: inline-flex;
-    margin-left: 115px;
-    width: 1350px;
+    width: 100%;
+    height: 100%;
     position: absolute;
     z-index: -5;
 }
