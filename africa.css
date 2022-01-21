@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
 body{
     background-color: black;
     font-family: 'Sawarabi Gothic', sans-serif;
@@ -6,8 +7,13 @@ body{
     margin: 0;
 }
 .error{
-    
     position: relative;
+}
+.los{
+    position: fixed;
+    left: 1130px;
+    top: 75px;
+    width: 200px;
 }
 .map-africa{
     display: inline-flex;
@@ -31,10 +37,10 @@ body a{
 }
 .scrollable {
     height: 300px; 
-    width: 17%;
+    width: 18%;
     overflow-y: auto;
     position: fixed;
     margin-top: 40px;
-    padding-left: 200px;
+    padding-left: 190px;
     font-family: 'Luxurious Roman', cursive;
 }
