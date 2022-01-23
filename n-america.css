@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital@1&display=swap');
 body{
     background-color: black;
     font-family: 'Sawarabi Gothic', sans-serif;
@@ -16,13 +17,31 @@ body{
     position: absolute;
     z-index: -5;
 }
+.killer{
+    position: absolute;
+    width: 180px;
+    left: 760px;
+    top: 355px;
+}
+.grim{
+    position: absolute;
+    width: 250px;
+    left: 450px;
+    top: 255px;
+}
+.scrollable2{
+    position: fixed;
+    top: 67%;
+    left: 70%;
+    right: 20px;
+    font-family: 'Ubuntu Mono', monospace;
+    overflow-y: auto;
+    height: 250px; 
+    width: 30%;
+}
 body h1{
     color: maroon;
     text-align: center;
-    border: 2px solid;
-    padding-left: 6px;
-    padding-right: 6px;
-    background-color: #FF6461;
 }
 body a{
     color: white;

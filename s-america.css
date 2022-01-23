@@ -19,10 +19,6 @@ body{
 body h1{
     color: maroon;
     text-align: center;
-    border: 2px solid;
-    padding-left: 6px;
-    padding-right: 6px;
-    background-color: #FF6461;
 }
 body a{
     color: white;
