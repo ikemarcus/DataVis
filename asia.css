@@ -16,6 +16,28 @@ body{
     position: absolute;
     z-index: -5;
 }
+.killer{
+    position: absolute;
+    width: 200px;
+    left: 750px;
+    top: 350px;
+}
+.grim{
+    position: absolute;
+    width: 250px;
+    left: 450px;
+    top: 255px;
+}
+.scrollable2{
+    position: fixed;
+    top: 67%;
+    left: 70%;
+    right: 20px;
+    font-family: 'Ubuntu Mono', monospace;
+    overflow-y: auto;
+    height: 250px; 
+    width: 30%;
+}
 body h1{
     color: maroon;
     text-align: center;
