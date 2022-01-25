@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
 body{
     background-color: black;
-    font-family: 'Sawarabi Gothic', sans-serif;
+    font-family: "Tb-Regular.otf";
     padding: 0;
     margin: 0;
     cursor: url(image2/the_pin.png), auto;
@@ -39,7 +39,7 @@ body a{
 .africa{
     position: absolute;
     top: 51%;
-    left: 50%;
+    left: 53%;
     transform: translate(-50%, -50%);
     padding-top: 99px;
     padding-left: 70px;
@@ -50,8 +50,8 @@ body a{
 }
 .australia{
     position: absolute;
-    top: 73%;
-    left: 78%;
+    top: 72%;
+    left: 85%;
     transform: translate(-50%, -50%);
     padding-top: 99px;
     padding-left: 90px;
@@ -63,7 +63,7 @@ body a{
 .asia{
     position: absolute;
     top: 28%;
-    left: 66%;
+    left: 72%;
     transform: translate(-50%, -50%);
     padding-top: 99px;
     padding-left: 70px;
@@ -75,7 +75,7 @@ body a{
 .europe{
     position: absolute;
     top: 27%;
-    left: 48%;
+    left: 50.5%;
     transform: translate(-50%, -50%);
     padding-top: 99px;
     padding-left: 70px;
@@ -87,7 +87,7 @@ body a{
 .n-america{
     position: absolute;
     top: 27%;
-    left: 21.5%;
+    left: 21%;
     transform: translate(-50%, -50%);
     padding-top: 99px;
     padding-left: 70px;
@@ -98,8 +98,8 @@ body a{
 }
 .s-america{
     position: absolute;
-    top: 70%;
-    left: 29%;
+    top: 68%;
+    left: 30%;
     transform: translate(-50%, -50%);
     padding-top: 99px;
     padding-left: 70px;
