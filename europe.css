@@ -31,12 +31,12 @@ body{
 }
 .scrollable2{
     position: fixed;
-    top: 67%;
+    top: 68%;
     left: 70%;
-    right: 20px;
+    right: 10%;
     font-family: 'Ubuntu Mono', monospace;
     overflow-y: auto;
-    height: 250px; 
+    height: 30%; 
     width: 30%;
 }
 body h1{
@@ -53,11 +53,11 @@ body a{
     transform: translate(-50%, -50%);
 }
 .scrollable {
-    height: 250px; 
+    height: 29%; 
     width: 18%;
     overflow-y: auto;
     position: fixed;
-    margin-top: 100px;
-    padding-left: 190px;
+    margin-top: 8%;
+    padding-left: 12.5%;
     font-family: 'Luxurious Roman', cursive;
 }

@@ -45,6 +45,12 @@ body{
     height: 30%; 
     width: 30%;
 }
+.back{
+    position: fixed;
+    width: 20%;
+    top: 73%;
+    left: 26.8%;
+}
 body h1{
     color: maroon;
     text-align: center;
